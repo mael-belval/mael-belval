@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mael-belval
 - 👀 I’m interested in research & development
-- 🌱 I’m currently learning Three.js
+- 🌱 I love Three.js
 - 📫 You can reach me on twitter @Mael_Belval
 
 <!---
