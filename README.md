@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @mael-belval
-- 🌱 I love Three.js
-- 📫 You can reach me on twitter @Mael_Belval
 
 ![](https://crd.so/i/mael-belval?dark&removeLink)
 
